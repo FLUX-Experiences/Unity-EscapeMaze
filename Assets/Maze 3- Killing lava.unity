@@ -577,7 +577,6 @@ GameObject:
   - component: {fileID: 1762563045}
   - component: {fileID: 1762563050}
   - component: {fileID: 1762563051}
-  - component: {fileID: 1762563052}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -713,26 +712,6 @@ MonoBehaviour:
   OnMazeEndFail:
     m_PersistentCalls:
       m_Calls: []
---- !u!95 &1762563052
-Animator:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1762563044}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 0e61f142fa6650949a7d6fc717791e44, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &2129775779
 GameObject:
   m_ObjectHideFlags: 0
@@ -918,7 +897,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: eb9e652587ea2ff44aecb2cabaf1a545, type: 2}
+  - {fileID: 2100000, guid: d9c0dfdd56e80fb458e62ce30eabb6cd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
