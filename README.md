@@ -1,4 +1,4 @@
-# Learning Unity: Escape Maze
+# Escape Maze
 
 This project is part of a Club for people who start their path with Unity.
 
